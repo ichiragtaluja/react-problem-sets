@@ -4,7 +4,7 @@ export const employees = [
     level: 2,
     dept: "Technology",
     designation: "Manager",
-    salary: 24000,
+    salary: 240000,
   },
   {
     name: "Mary Robbins",
