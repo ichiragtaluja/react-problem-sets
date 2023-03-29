@@ -1,25 +1,25 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { EmployeeCard } from "./Question1/EmployeeCard";
-import { CustomeButton } from "./Question2/CustomeButton";
+import { EmployeeCard } from "./Pset1Question1/EmployeeCard";
+import { CustomeButton } from "./Pset1Question2/CustomeButton";
 import {
   backgroundColor,
   color,
   borderRadius,
   padding,
-} from "./Question2/backgroundColor";
-import { StationaryItems } from "./Question3/StationaryItems";
-import { items } from "./Question3/items";
-import { DisplayImage } from "./Question4/DisplayImage";
-import { imageLink, caption } from "./Question4/imageLink";
-import { ProductDetails } from "./Question5/ProductDetails";
-import { products } from "./Question5/products";
-import { DisplayProducts } from "./Question6/DisplayProducts";
-import { productsDescription } from "./Question6/productsDescription";
-import { StudentDetails } from "./Question7/StudentDetails";
-import { student } from "./Question7/student";
-import { employees } from "./Question8,9,10/employees";
-import { EmployeesDetails } from "./Question8,9,10/EmployeesDetails";
+} from "./Pset1Question2/backgroundColor";
+import { StationaryItems } from "./Pset1Question3/StationaryItems";
+import { items } from "./Pset1Question3/items";
+import { DisplayImage } from "./Pset1Question4/DisplayImage";
+import { imageLink, caption } from "./Pset1Question4/imageLink";
+import { ProductDetails } from "./Pset1Question5/ProductDetails";
+import { products } from "./Pset1Question5/products";
+import { DisplayProducts } from "./Pset1Question6/DisplayProducts";
+import { productsDescription } from "./Pset1Question6/productsDescription";
+import { StudentDetails } from "./Pset1Question7/StudentDetails";
+import { student } from "./Pset1Question7/student";
+import { employees } from "./Pset1Question8,9,10/employees";
+import { EmployeesDetails } from "./Pset1Question8,9,10/EmployeesDetails";
 
 function App() {
   return (
